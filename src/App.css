@@ -1,4 +1,100 @@
-.App {
+.App{
+  width: 1000px;
+  margin: auto ;
+  padding: 100px;
+  text-align: center;
+  border: 2px solid #FF0000;
+}
+
+#title{
+  text-transform: uppercase;
+}
+
+.services{
+  margin: 20px;
+  display: inline-block;
+  border: 2px solid #000;
+  position: relative;
+  vertical-align: top;
+  width: 209px;
+  margin-right: 1px;
+}
+
+.services-icons{
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border-radius: 50%;
+	border: 10px solid #ececec;
+	margin-bottom: auto;
+	transition: all 0.2s ease-in-out;
+}
+
+.services-header{
+  text-align: center;
+  margin: auto;
+  border: 10px solid #FFFF00;
+  width: auto;
+  text-transform: uppercase;
+}
+
+.services-description{
+  text-align: center;
+  width: 205px;
+}
+
+#store{
+  width: 100px;
+  background-color: red;
+  display: inline-block;
+  height: 3px;
+  margin-top: -10px;
+}
+
+#print{
+  width: 100px;
+  background-color: orange;
+  display: inline-block;
+  height: 3px;
+  margin-top: -10px;
+}
+
+#locker{
+  width: 100px;
+  background-color: green;
+  display: inline-block;
+  height: 3px;
+  margin-top: -10px;
+}
+
+#hardware{
+  width: 100px;
+  background-color: lightblue;
+  display: inline-block;
+  height: 3px;
+  margin-top: -10px;
+}
+
+#monitor{
+  width: 100px;
+  background-color: #0AB1F4;
+  display: inline-block;
+  height: 3px;
+  margin-top: -10px;
+}
+
+#p3d{
+  width: 100px;
+  background-color: purple;
+  display: inline-block;
+  height: 3px;
+  margin-top: -10px;
+}
+
+/*.App {
   text-align: center;
 }
 
@@ -29,4 +125,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+}*/
