@@ -1,3 +1,7 @@
+#Lstore{
+  background-color: red;
+}
+
 #istore{
   border-radius: 0%;
   height: 100px;
@@ -5,6 +9,22 @@
   margin: auto;
   margin-top: 25px;
   position:relative;
+}
+
+.services-icons-Cstore:hover{
+  border-radius: 50%;
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border: 10px solid red;
+	margin-bottom: auto;
+}
+
+#Lprint{
+  background-color: orange;
 }
 
 #iprint{
@@ -16,6 +36,22 @@
   position:relative;
 }
 
+.services-icons-Cprint:hover{
+  border-radius: 50%;
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border: 10px solid orange;
+	margin-bottom: auto;
+}
+
+#Llocker{
+  background-color: green;
+}
+
 #ilocker{
   border-radius: 0%;
   height: 100px;
@@ -23,6 +59,22 @@
   margin: auto;
   margin-top: 25px;
   position:relative;
+}
+
+.services-icons-Clocker:hover{
+  border-radius: 50%;
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border: 10px solid green;
+	margin-bottom: auto;
+}
+
+#Lhardware{
+  background-color: lightblue;
 }
 
 #ihardware{
@@ -34,6 +86,22 @@
   position:relative;
 }
 
+.services-icons-Chardware:hover{
+  border-radius: 50%;
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border: 10px solid lightblue;
+	margin-bottom: auto;
+}
+
+#Lmonitor{
+  background-color: #0AB1F4;
+}
+
 #imonitor{
   border-radius: 0%;
   height: 100px;
@@ -43,6 +111,22 @@
   position:relative;
 }
 
+.services-icons-Cmonitor:hover{
+  border-radius: 50%;
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border: 10px solid #0AB1F4;
+	margin-bottom: auto;
+}
+
+#Lp3d{
+  background-color: purple;
+}
+
 #ip3d{
   border-radius: 0%;
   height: 100px;
@@ -50,4 +134,16 @@
   margin: auto;
   margin-top: 25px;
   position:relative;
+}
+
+.services-icons-Cp3d:hover{
+  border-radius: 50%;
+  margin: auto;
+  padding: auto;
+  display: inline-block;
+  margin-bottom: auto ;
+	width: 145px;
+	height: 145px;
+	border: 10px solid purple;
+	margin-bottom: auto;
 }
