@@ -7,7 +7,17 @@
 }
 
 #title{
-  text-transform: uppercase;
+  color: #404040;
+  padding-bottom: 30px;
+	line-height: 40px;
+	position: relative;
+	display: inline-block;
+	font-size: 45px;
+	text-transform: uppercase;
+	margin-top: 15px;
+	margin-bottom: 0;
+  font-family: 'Montserrat';
+  //border: 2px solid #000;
 }
 
 .services{
@@ -50,49 +60,9 @@
   color: #808080;
 }
 
-#store{
+.line{
   width: 100px;
   background-color: red;
-  display: inline-block;
-  height: 3px;
-  margin-top: -10px;
-}
-
-#print{
-  width: 100px;
-  background-color: orange;
-  display: inline-block;
-  height: 3px;
-  margin-top: -10px;
-}
-
-#locker{
-  width: 100px;
-  background-color: green;
-  display: inline-block;
-  height: 3px;
-  margin-top: -10px;
-}
-
-#hardware{
-  width: 100px;
-  background-color: lightblue;
-  display: inline-block;
-  height: 3px;
-  margin-top: -10px;
-}
-
-#monitor{
-  width: 100px;
-  background-color: #0AB1F4;
-  display: inline-block;
-  height: 3px;
-  margin-top: -10px;
-}
-
-#p3d{
-  width: 100px;
-  background-color: purple;
   display: inline-block;
   height: 3px;
   margin-top: -10px;
