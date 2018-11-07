@@ -12,9 +12,9 @@ class App extends Component {
         </div>
 
         <div className="services">
-          <div className="services-icons services-icons-Cstore">
+          <div className="icons-border services-icons-Cstore">
             <a href="">
-              <img id="istore" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/store-2.png"></img>
+              <img class="icon" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/store-2.png"></img>
             </a>
           </div>
           <h1 className="services-header">sce store</h1>
@@ -23,9 +23,9 @@ class App extends Component {
         </div>
 
         <div className="services">
-          <div className="services-icons services-icons-Cprint">
+          <div className="icons-border services-icons-Cprint">
             <a href="">
-              <img id="iprint" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/printer.png"></img>
+              <img class="icon" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/printer.png"></img>
             </a>
           </div>
           <h1 className="services-header">printing</h1>
@@ -34,9 +34,9 @@ class App extends Component {
         </div>
 
         <div className="services">
-          <div className="services-icons  services-icons-Clocker">
+          <div className="icons-border  services-icons-Clocker">
             <a href="">
-              <img id="ilocker" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/locker.png"></img>
+              <img class="icon" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/locker.png"></img>
             </a>
           </div>
           <h1 className="services-header">locker space</h1>
@@ -45,9 +45,9 @@ class App extends Component {
         </div>
 
         <div className="services">
-          <div className="services-icons services-icons-Chardware">
+          <div className="icons-border services-icons-Chardware">
             <a href="">
-              <img id="ihardware" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/oscilloscope-1.jpg"></img>
+              <img class="icon" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/oscilloscope-1.jpg"></img>
             </a>
           </div>
           <h1 className="services-header">hardware hacking station</h1>
@@ -56,9 +56,9 @@ class App extends Component {
         </div>
 
         <div className="services">
-          <div className="services-icons services-icons-Cmonitor">
+          <div className="icons-border services-icons-Cmonitor">
             <a href="">
-              <img id="imonitor" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/monitor.png"></img>
+              <img class="icon" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/monitor.png"></img>
             </a>
           </div>
           <h1 className="services-header">monitor</h1>
@@ -67,9 +67,9 @@ class App extends Component {
         </div>
 
         <div className="services">
-          <div className="services-icons services-icons-Cp3d">
+          <div className="icons-border services-icons-Cp3d">
             <a href="">
-              <img id="ip3d" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/3DPrinter-1.png"></img>
+              <img class="icon" src="https://sce.engr.sjsu.edu/wp-content/uploads/2016/03/3DPrinter-1.png"></img>
             </a>
           </div>
           <h1 className="services-header">3d printing</h1>
